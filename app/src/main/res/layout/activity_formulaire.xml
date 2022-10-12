@@ -4,11 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/background"
     tools:context=".FormulaireActivity">
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolbar_create"
-        app:titleTextColor="#000000"
+        app:titleTextColor="#FFFFFF"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
         android:background="?attr/colorPrimary"
